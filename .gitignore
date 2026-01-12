@@ -1,0 +1,4 @@
+# Ignore PowerPoint presentations
+presentations/*.pptx
+
+# Allow PDF files (they will be tracked by default)
